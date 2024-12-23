@@ -8,3 +8,4 @@ Dataset_after_pca consists of data after PCA analysis.
 Prediction.ipynb consists of the test prediction performed on sample input and it also provide framework for app.py.
 Hyperparameter using scikeras.
 Tensorboard for visualizations of loss and epochs.Logs stored in regressionlogs folder.
+"Streamlit Web App Demo" folder contains demo video  of premium prediction using streamlit.
